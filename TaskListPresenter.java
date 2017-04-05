@@ -10,7 +10,7 @@
  * Contributors:
  *     Tasktop Technologies - initial API and implementation
  ******************************************************************************/
-//package com.tasktop.c2c.server.tasks.client.presenters;
+//package com.tasktop.c2c.server.tasks.client.presenters; new line
  
 import java.util.Collections;
 import java.util.List;
